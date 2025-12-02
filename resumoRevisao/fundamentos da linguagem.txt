@@ -1,0 +1,26 @@
+1 - Historia do Java
+
+-Criada em 1991
+-Chamada de OAK
+-Equipe de DEVS liderada por James Gosling
+-Voltada para dispositivos Inteligentes
+-1994 mudou de ramo
+-Voltou-se para aplicaoes WEB
+-Ganhou o nome de JAVA que se refecia a uma especide de cafe que os DEVS consumiam
+-1995 ganhou popularidade 
+-lancamento do JAVA 1.0
+-Frase conhecida "Escreva uma vez rode em qualquer lugar"
+-2010 vendida para ORACLE 
+
+2 - Ecossistema JAVA
+
+-JSE - Java Standard Edition
+	- Base da linguagem, aplicaoes desktop, bibliotecas padrao
+-JEE - Java Enterprise Edition	- Aplicacoes corporativas 
+-JME - Java Micro Edition
+	- Sistemas Embarcados
+-JavaFX - Criacao de interfaces graficas 
+-JDK - Java Development Kit - (Kit de desenvolvimento Java)
+-JRE - Java Runtime Environment - (Ambiente de execucao Java)
+
+

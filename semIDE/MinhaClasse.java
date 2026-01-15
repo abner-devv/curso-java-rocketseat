@@ -1,11 +1,11 @@
-class MinhaClasse{
-	public static void main(String[] args){
-		
-		char myVar1 = 65, myVar2 = 66, myVar3 = 67;
-System.out.println(myVar1);
-System.out.println(myVar2);
-System.out.println(myVar3);
-
-
-	}
+ class Main {
+  public static void main(String[] args) {
+    for (int i = 1; i <= 3; i++) {
+      for (int j = 1; j <= 3; j++) {
+        System.out.print(j);
+      }
+      System.out.println();
+    }
+  }
 }
+		

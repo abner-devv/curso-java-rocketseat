@@ -1,4 +1,4 @@
-package je14_pilares_poo;
+package j14_pilares_poo;
 
 public class ComputadorPedrinho {
     static void main() {

@@ -24,6 +24,3 @@
 //    void sacar(Double valorSolicitado){
 //    }
 //}
-
-void main() {
-}
